@@ -1,0 +1,11 @@
+.column {
+    background-color: #22b54a;
+    float: left;
+    width: 25%;
+    min-height: 300px;
+}
+
+
+.column-card-list{
+    min-height: 50px;
+}
